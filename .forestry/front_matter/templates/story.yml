@@ -10,5 +10,3 @@ fields:
   name: layout
   label: layout
   default: post-no-feature
-pages:
-- _posts/untitled.md
