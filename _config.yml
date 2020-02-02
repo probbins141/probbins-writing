@@ -3,8 +3,6 @@ tagline:
 description:      \"Horror\" stories
 canonical:        https://probbinswriting.com
 
-destination: ./build
-
 # Owner/author information
 owner:
   name:           P. Robbins
