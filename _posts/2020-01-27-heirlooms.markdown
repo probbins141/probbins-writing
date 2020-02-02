@@ -1,21 +1,21 @@
 ---
 title: Heirlooms
 layout: post-no-feature
----
 
-*A cigarette case made of silver with an engraving of Christ crucified on the inside. His wounds smell like tobacco.*
+---
+_A cigarette case made of silver with an engraving of Christ crucified on the inside. His wounds smell like tobacco._
 
 It was a gift to my grandfather from one of his Jazz friends, a man named Paul who said, "Everything is permitted." They always teased him about his days as a Catholic Priest. He gave up the cloth when he was twenty-nine, took up smoking and playing the piano. His father had played the organ.
 
-He never talked about it much back then, but on Sunday mornings he could always be found at Cafe Martin, across the street from St. Mary's Cathedral. He'd sit on the patio smoking and drinking his coffee, and he'd listen to the new priest sing the mass in Latin and to the sound of his father's old instrument wheezing from the Cathedral’s open door. He'd sip his drink and watch the thin little wisp of white rise from the end of his coffin nail and he'd think of incense and the Holy Ghost. Occasionally, he'd look at the engraving and remember when people called him Father. Sometimes they still did, leaving the church after mass. 
+He never talked about it much back then, but on Sunday mornings he could always be found at Cafe Martin, across the street from St. Mary's Cathedral. He'd sit on the patio smoking and drinking his coffee, and he'd listen to the new priest sing the mass in Latin and to the sound of his father's old instrument wheezing from the Cathedral’s open door. He'd sip his drink and watch the thin little wisp of white rise from the end of his coffin nail and he'd think of incense and the Holy Ghost. Occasionally, he'd look at the engraving and remember when people called him Father. Sometimes they still did, leaving the church after mass.
 
 "Good morning, Father," one might call to him and he'd snap the cigarette case closed and wave, smoke drifting from between his delicate fingers.
 
 Later, he moved to the country, where there were no cathedrals. He got married and had kids. Later yet, once he'd become a grandfather, he started attending mass again. He died of lung cancer a few years after that, his sins, presumably, absolved.
 
--
+* 
 
-*A platinum pocket watch with a broken chain. The glass was cracked once, but has since been replaced. Its tick is exceptionally loud.*
+_A platinum pocket watch with a broken chain. The glass was cracked once, but has since been replaced. Its tick is exceptionally loud._
 
 My great Uncle bought it to keep track of time during his walks in the Bell Woods. Before he had it, he would sometimes stroll until the sun had set and then he'd have to find his way home in the dark. He'd arrive at his parents’ house, muddy and scratched up but alive.
 
@@ -29,9 +29,9 @@ They found his body near the stream where the deer would congregate in the previ
 
 The bear was shot a week later, by my grandfather. The watch still keeps time.
 
--
+* 
 
-*A gold fountain pen with Lapis Lazuli inlay. The initials A.B. are etched at the base.*
+_A gold fountain pen with Lapis Lazuli inlay. The initials A.B. are etched at the base._
 
 It was a gift to my Aunt from her parents for graduating medical school. Her initials were A. R.  At first her parents were ashamed about the mistake with the initials, but my aunt didn't mind. Years later they would joke that she should just marry someone with a last name that started with B, but she would never marry.
 
@@ -43,6 +43,6 @@ She would write about a lover on the table, how she would cut open his chest and
 
 One pictures her late at night, after surgery, doing paper work. She reaches for the pen, dips it in an ink well, but not before dipping it into the well of her own heart, then scratches those violent, desperate little words into the margins of her papers, her life. Soon those margins would grow.
 
-She broke down during an operation, in the end, nearly costing a seventy-year-old man his life. She quit medicine after that, moved back in with her parents. She took care of them when they got older. After they died, I heard she took up writing. I don't know if she still used the pen then. She never showed anybody what she wrote and always burned the papers afterwards. 
+She broke down during an operation, in the end, nearly costing a seventy-year-old man his life. She quit medicine after that, moved back in with her parents. She took care of them when they got older. After they died, I heard she took up writing. I don't know if she still used the pen then. She never showed anybody what she wrote and always burned the papers afterwards.
 
 She died alone. Only a few scraps of her writing from before her breakdown remain, faded, almost entirely illegible.
