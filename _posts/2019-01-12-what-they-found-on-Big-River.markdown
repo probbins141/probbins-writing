@@ -1,8 +1,8 @@
 ---
 title: What they found on Big River
 layout: post-no-feature
----
 
+---
 Joshua and Eli stared bleary-eyed at the body tangled in their fishing net. "This is a bad thing," Eli simply muttered, and in his heart he thought that it foretold worse.
 
 "She's just a girl," Joshua whispered. His voice was choked and hoarse. He turned away.
@@ -55,7 +55,7 @@ Eli nodded. For a while the two were silent, and then Eli went and leaned on the
 
 “How much of that rum have we got left?” Joshua asked.
 
--
+* 
 
 By the time the sun had fully set and taken all its light with it, the old timers were good and drunk. Joshua shook the bottle and listened to the splash of the finger or two of rum left in the bottle before setting it down between the two of them.
 
@@ -139,7 +139,7 @@ In any case, the two men both felt much more at ease by the time midnight rolled
 
 “Amen, old friend.”
 
--
+* 
 
 A few hours later, Eli awoke feeling sick and disoriented. He had sobered significantly and his throat felt dry and swollen. Trying to sit up, he realized that Joshua was grabbing his shoulder tightly. “What in the hell?” Eli said, whipping around, “What time is it?”
 
